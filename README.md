@@ -46,7 +46,7 @@
 | Shen et al. | [CaMU: Disentangling Causal Effects in Deep Model Unlearning](https://epubs.siam.org/doi/abs/10.1137/1.9781611978032.89) | SDM |
 | Hoang et al. | [Learn To Unlearn for Deep Neural Networks: Minimizing Unlearning Interference With Gradient Projection](https://openaccess.thecvf.com/content/WACV2024/html/Hoang_Learn_To_Unlearn_for_Deep_Neural_Networks_Minimizing_Unlearning_Interference_WACV_2024_paper.html) | WACV |
 | Xin et al. | [On the Effectiveness of Unlearning in Session-Based Recommendation](https://dl.acm.org/doi/abs/10.1145/3616855.3635823) | WSDM |
-| Zhang | [Graph Unlearning with Efficient Partial Retraining](https://dl.acm.org/doi/abs/10.1145/3589335.3651265) | WWW |
+| Zhang | [Graph Unlearning with Efficient Partial Retraining](https://dl.acm.org/doi/abs/10.1145/3589335.3651265) ✔️  | WWW  |
 | | |
 | Li et al. | [Pseudo Unlearning via Sample Swapping with Hash](https://www.sciencedirect.com/science/article/abs/pii/S0020025524000483?via%3Dihub) | Information Science |
 | | |
